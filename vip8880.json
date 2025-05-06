@@ -1,9 +1,8 @@
 {
   "name": "",
   "ip": "back.vip8880.com",
+  "ips":["52.76.219.183"],
   "cdn":"https://dxtw9zxcwnxc0.cloudfront.net",
   "cdns":["http://cdn.vip8880.com","https://download.vip8880.com"],
   "chat":""
 }
-
-
