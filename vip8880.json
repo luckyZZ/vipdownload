@@ -4,6 +4,6 @@
   "ips":["54.251.89.210"],
   "eventip": "back.vip8880.com",
   "cdn":"https://dxtw9zxcwnxc0.cloudfront.net",
-  "cdns":["http://cdn.vip8880.com"],
+  "cdns":["https://cdn.vip8880.com"],
   "chat":""
 }
