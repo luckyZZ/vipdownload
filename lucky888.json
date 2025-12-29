@@ -2,7 +2,8 @@
 	"name": "S3",
 	"ip": "back.game7776.com",
 	"ips":["13.228.143.8"],
-	"cdn": "https://dxtw9zxcwnxc0.cloudfront.net",
-	"cdns": ["https://cdn.vip8880.com","http://dxtw9zxcwnxc0.cloudfront.net","http://cdn.vip8880.com"],
+	"eventip": "back.game7776.com",
+	"cdn":"https://d3b7fcs2mhffmt.cloudfront.net",
+	"cdns":["https://d2rlva039bhbuv.cloudfront.net","https://cdn.vip8880.com","https://backdownload.s3.ap-southeast-1.amazonaws.com/pkg"],
 	"chat": ""
 }
